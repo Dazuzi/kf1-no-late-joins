@@ -1,0 +1,1 @@
+Mutator=(ClassName=NoLateJoins.NoLateJoins,GroupName=KF-NoLateJoins,IconMaterialName=MutatorArt.nosym,FriendlyName=NoLateJoins.NoLateJoins.FriendlyName,Description=NoLateJoins.NoLateJoins.Description,FriendlyName=NoLateJoins.NoLateJoins.FriendlyName,FallbackName="No Late Joins",FallbackDesc="Kicks players who join after a set wave.")
